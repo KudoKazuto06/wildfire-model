@@ -1,0 +1,5 @@
+season,n_observations,wind_mean,humidity_mean,spread_mean
+Winter,273,12.176,55.121,0.353
+Spring,9457,9.966,38.515,0.893
+Summer,12492,7.894,49.064,1.044
+Fall,2637,9.692,49.872,0.431
